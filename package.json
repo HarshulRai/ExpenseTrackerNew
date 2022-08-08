@@ -25,13 +25,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HarshulRai/ExpenseTrackerNodejs.git"
+    "url": "git+https://github.com/HarshulRai/ExpenseTrackerNew.git"
   },
   "author": "Harshul",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/HarshulRai/ExpenseTrackerNodejs/issues"
+    "url": "https://github.com/HarshulRai/ExpenseTrackerNew/issues"
   },
-  "homepage": "https://github.com/HarshulRai/ExpenseTrackerNodejs#readme",
+  "homepage": "https://github.com/HarshulRai/ExpenseTrackerNew#readme",
   "description": ""
 }
